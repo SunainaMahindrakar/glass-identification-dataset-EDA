@@ -5,5 +5,5 @@ number of physical properties. The dataset is a study of glass composition in fo
 testing classification algorithms. The goal is to classify different types of glass based on
 their content. 
 
-#Project Goals: 
+# Project Goals: 
 Practice the basics of data cleaning, data partition, data normalization, and data visualization. 
